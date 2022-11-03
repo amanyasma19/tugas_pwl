@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edfe;
+}
+body {
+  min-height: 3000px;
+}
+#projects {
+  background-color: white;
+}
+#pendidikan {
+  background-color: #e2edfe;
+}
+section {
+  padding-top: 5rem;
+}
+.galery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
+#contact {
+  background-color: white;
+}
+#location {
+  background-color: white;
+}
